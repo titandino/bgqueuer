@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "ed4506b524292b973f5ead7a1e6f5be501ad666c10a05858710da1facae8e032",
+		"module.json": "0a4d97896c7931cc64292fec0723d2a77ca278e7f7aea7b7abfe334a7deb838b"
+	},
+	"defs": {
+		"C_ADD_INTER_PARTY_MATCH_POOL": 1,
+		"S_LOGIN": 10
+	}
+}
